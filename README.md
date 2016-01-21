@@ -1,0 +1,2 @@
+# Sigma
+Viðmót fyrir Sigma
